@@ -15,7 +15,20 @@ tags = ["syntax", "code"]
 
 ## Motivation
 
-As a scientist and artist, two of my gratest passions is sharing how I see the Universe, be it scientifically or artistically! Here is a space precisely for me to do these within an open source framework!
+As a scientist and artist, two of my gratest passions is sharing how I see the Universe, be it scientifically or artistically! Here is a space precisely to do this!
+
+<!-- Science + Art = Wonder -->
+
+## Meet Julia, Franklin, and Github
+
+Before asking myself how to build and host this website I needed to ask myself where to host it. Github Pages was a very natural choice for me. Despite it requiring some setup and not being very lay-person friendly, my experience with programing throughout my academic career was more than enough to to work through it.
+
+TALK ABOUT FRANKLIN HERE
+
+I do not have much experience with Julia. Most of my programming experience is with Python. However, I am very passionated about this language, both for its simplicity and flexibility as well as a very active and lively developpers community. Thereby, I saw this new project of building my website as a perfect opportunity to practice programming in Julia with a deliverable product.
+
+
+
 
 ```julia:./exdot.jl
 using LinearAlgebra
