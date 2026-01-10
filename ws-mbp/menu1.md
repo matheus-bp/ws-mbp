@@ -17,6 +17,7 @@ tags = ["syntax", "code"]
 
 As a scientist and artist, two of my gratest passions is sharing how I see the Universe, be it scientifically or artistically! Here is a space precisely to do this!
 
+
 <!-- Science + Art = Wonder -->
 
 ## Meet Julia, Franklin, and Github
